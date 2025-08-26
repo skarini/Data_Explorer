@@ -1,0 +1,51 @@
+ResponseId,EmployeeName,YearsCodePro,DevType,Country,LanguageHaveWorkedWith,ConvertedCompYearly
+1,James Smith,10,Developer-backend,United States of America,C#,150000.0
+2,Mary Johnson,9,Senior-Executive,United States of America,Python,285000.0
+3,John Williams,23,Developer-backend,United States of America,Go,250000.0
+4,Patricia Brown,7,Developer-frontend,United States of America,JavaScript,156000.0
+5,Robert Jones,4,Developer-full-stack,Philippines,TypeScript,23456.0
+6,Jennifer Miller,21,Developer-backend,United Kingdom of Great Britain and Northern Ireland,Ruby,96828.0
+7,Michael Davis,3,Developer-full-stack,United States of America,Java,135000.0
+8,Linda Garcia,3,Developer-full-stack,United States of America,Rust,80000.0
+9,William Rodriguez,15,System-administrator,Finland,PowerShell,64254.0
+10,Elizabeth Martinez,1,Developer-full-stack,India,SQL,11944.0
+11,David Hernandez,3,Developer-desktop,United States of America,C++,130000.0
+12,Barbara Lopez,9,Developer-full-stack,Australia,Kotlin,78003.0
+13,Richard Gonzalez,9,Developer-full-stack,United States of America,Solidity,75000.0
+14,Susan Wilson,0,Developer-QA-test,United States of America,C,150000.0
+15,Joseph Anderson,7,Developer-full-stack,Netherlands,Perl,187407.0
+16,Jessica Thomas,10,Developer-backend,Germany,Haskell,107090.0
+17,Thomas Taylor,2,Developer-frontend,Sweden,TypeScript,45149.0
+18,Sarah Moore,6,Developer-frontend,France,SQL,58899.0
+19,Charles Jackson,17,Developer-full-stack,United States of America,C#,135000.0
+20,Karen Martin,8,Developer-full-stack,Portugal,PHP,48195.0
+21,Christopher Lee,11,Developer-backend,United States of America,Python,130000.0
+22,Nancy Thompson,4,Developer-backend,United States of America,Java,50000.0
+23,Daniel White,10,Developer-backend,United States of America,PowerShell,114000.0
+24,Lisa Harris,10,Developer-backend,Germany,Go,69601.0
+25,Matthew Clark,2,Developer-frontend,United States of America,JavaScript,75000.0
+26,Betty Lewis,1,Other,United States of America,Python,150000.0
+27,Donald Robinson,5,Developer-full-stack,United States of America,TypeScript,160000.0
+28,Sandra Walker,4,Developer-frontend,United States of America,JavaScript,50000.0
+29,Mark Perez,15,Developer-full-stack,United States of America,C#,155000.0
+30,Ashley Hall,12,Developer-full-stack,United States of America,SQL,110000.0
+31,Steven Young,3,Developer-full-stack,Canada,Python,73281.0
+32,Kimberly Allen,3,Developer-full-stack,Canada,Bash,73281.0
+33,Paul Sanchez,10,Developer-full-stack,Germany,PHP,42836.0
+34,Donna Wright,13,Developer-full-stack,United States of America,SQL,160000.0
+35,Andrew King,3,Data-scientist,United States of America,R,150000.0
+36,Cynthia Scott,5,Developer-full-stack,United States of America,TypeScript,85000.0
+37,Joshua Green,12,Developer-backend,United States of America,C,100000.0
+38,Angela Baker,3,Developer-full-stack,France,PHP,26778.0
+39,Kevin Adams,15,Developer-backend,United States of America,Python,200000.0
+40,Melissa Nelson,4,Developer-mobile,United States of America,C#,65000.0
+41,Brian Carter,3,Developer-full-stack,Canada,TypeScript,58625.0
+42,Amy Mitchell,30,Developer-backend,United States of America,JavaScript,162500.0
+43,George Roberts,2,Developer-full-stack,Israel,Python,85871.0
+44,Sharon Turner,17,Developer-backend,United States of America,C#,115000.0
+45,Jason Phillips,1,Developer-full-stack,United States of America,JavaScript,70000.0
+46,Michelle Campbell,14,Developer-backend,United States of America,Java,112000.0
+47,Timothy Parker,20,Developer-full-stack,United States of America,TypeScript,220000.0
+48,Laura Evans,2,Developer-full-stack,United States of America,Go,100000.0
+49,Ryan Edwards,15,Data-scientist,United Kingdom of Great Britain and Northern Ireland,Python,108310.0
+50,Brenda Collins,6,Data-scientist,United States of America,Bash,230000.0
