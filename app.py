@@ -630,7 +630,7 @@
 #                             title="Global Distribution of Survey Respondents")
 #     st.plotly_chart(fig, use_container_width=True)
 
-import streamlit as st
+ import streamlit as st
 import pandas as pd
 import plotly.express as px
 from pycountry_convert import country_name_to_country_alpha3
@@ -814,4 +814,3 @@ elif page == "Global Insights":
                             hover_name="Country", color_continuous_scale=px.colors.sequential.Viridis,
                             title="Global Distribution of Survey Respondents")
     st.plotly_chart(fig_map, use_container_width=True)
-
